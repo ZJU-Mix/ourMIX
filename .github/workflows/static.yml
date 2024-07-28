@@ -1,0 +1,57 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install MkDocs and dependencies
+        run: |
+          pip install mkdocs
+
+      # 修改开始：安装 MkDocs 及 Material 主题
+      - name: Install MkDocs and dependencies
+        run: |
+          pip install mkdocs mkdocs-material
+      # 修改结束
+      
+      # 修改开始：将 README.md 复制为 docs/index.md
+      - name: Prepare MkDocs content
+        run: cp README.md docs/index.md  # 将 README.md 复制为 docs/index.md
+      # 修改结束
+
+      - name: Build the site
+        run: mkdocs build  # 生成静态站点
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
