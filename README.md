@@ -17,6 +17,9 @@ MAKE MIX GREAT AGAIN！
 
 网站基于github pages功能与mkdocs，主要利用markdown编写。若对此项目感兴趣，可联系我们：
 
+### 致谢
+感谢图灵课程网站（https://zju-turing.github.io/TuringCourses/）对本项目的支持
+
 --- 
 
 关于知识共享：本项目的许可证为  [![CC BY-NC-SA Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，任何情况下，请注明出处。
