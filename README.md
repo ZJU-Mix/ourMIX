@@ -18,7 +18,7 @@ MAKE MIX GREAT AGAIN！
 网站基于github pages功能与mkdocs，主要利用markdown编写。若对此项目感兴趣，可联系我们：
 
 ### 致谢
-感谢图灵课程网站（https://zju-turing.github.io/TuringCourses/）对本项目的支持
+感谢图灵课程网站（https://zju-turing.github.io/TuringCourses/） 以及图灵课程网站编写组对本项目的支持与许可
 
 --- 
 
