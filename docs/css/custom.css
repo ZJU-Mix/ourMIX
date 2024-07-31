@@ -1,0 +1,19 @@
+/*本css文件由图灵课程网站中同名css文件修改而来*/
+  .md-typeset h1 {
+    font-size: 1.4rem;  /*设置h1字体大小为1.4倍相对参考值，下同*/
+    font-weight: 600;   /*设置h1字体粗细为600，下同*/
+  }
+
+  .md-typeset h2 {
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+  
+  .md-typeset h3 {
+    font-weight: 600;
+  }
+  
+  .md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+    letter-spacing: 0;  /*设置h1到h4字母间距为0*/
+  }
+  

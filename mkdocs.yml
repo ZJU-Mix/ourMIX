@@ -1,0 +1,158 @@
+site_name: 非官方版混合网站
+site_url: https://zju-mix.github.io/ourMIX/
+site_author: ourMIX
+repo_url: https://github.com/ZJU-Mix/ourMIX.github.io/
+repo_name: ZJU-Mix
+
+nav:
+  - 主页: 
+    - index.md
+    - 贡献指南: contribute.md
+    - 课程贡献模版: colleges/template.md
+  - 新生指南:
+    - entrance/index.md
+    - 致新生的一封信: entrance/letter.md
+    - 新生报道流程: entrance/process.md
+    - 学长组Q&A总结: entrance/QA.md
+    - 新生防诈骗指南: entrance/protect.md
+    - 购机建议: entrance/computer.md
+    - 校网连接指南: entrance/wifi.md
+    - 浙大生活指南: entrance/life.md
+    #- 如何获取信息: entrance/information.md
+    - 课程预修建议: entrance/pre-study.md
+    - 浙大满级细节攻略: entrance/details.md
+      
+  - 混合课程: 
+    - courses/index.md
+    - 程序设计与算法基础:
+      - courses/programming/index.md
+    
+    - 普通化学(H):
+      - courses/chemistry/index.md
+
+    - 普通化学实验(乙):
+      - courses/chemical_experiment/index.md
+
+    - 工程图学(H):
+      - courses/engineering_graphics/index.md
+
+    - 普通物理学I(H):
+      - courses/general_phy1/index.md
+
+    - 普通物理学II(H):
+      - courses/general_phy2/index.md
+
+    - 普通物理学实验:
+      - courses/phy_experiment/index.md
+
+  - 学院与专业: 
+    - colleges/index.md
+    - 计算机科学与技术学院:
+      - colleges/cspo/index.md
+
+    - 控制科学与工程学院:
+      - colleges/cse/index.md
+      - 专业必修课: colleges/cse/required-course.md
+      - 选修-公共基础类: colleges/cse/elective-公共基础类.md
+      - 选修-机器人与智能系统类: colleges/cse/elective-机器人与智能系统类.md
+      - 选修-机器人工程专有专业课: colleges/cse/elective-机器人工程.md
+
+    - 信息与电子工程学院:
+      - colleges/isee/index.md
+
+    - 光电科学与工程学院:
+      - colleges/opt/index.md
+
+    - 电气工程学院:
+      - colleges/ee/index.md
+
+    - 机械工程学院:
+      - colleges/me/index.md
+
+    - 能源工程学院:
+      - colleges/ode-oa/index.md
+
+    - 生物医学工程与仪器科学学院:
+      - colleges/cbeis/index.md
+      
+    - 其他:
+      - colleges/others/index.md
+
+  - 导师制&教授学术小组: 
+    - tutor/index.md
+    - 导师制/教授学术小组流程指南: tutor/operation.md
+
+  - 科研训练&竞赛: 
+    - SRTP/index.md
+    - 科研训练: SRTP/SRTP.md
+    - 竞赛: SRTP/competition.md
+    - 历届参考项目: SRTP/reference.md
+    
+  - 乐活混合: 
+    - 乐活混合: happy/index.md
+    - 关于体育二三事: happy/sports.md
+
+  - 师长分享: 
+    - share/index.md
+
+  - 深造资讯: 
+    - Fur-edu/index.md
+
+theme: 
+  name: 'material'
+  features:
+    - navigation.instant              #即时加载
+    - navigation.instant.prefetch     #即时预取，鼠标放在按键上便开始加载
+    - navigation.tabs                 #导航选项卡
+    - navigation.tabs.sticky          #粘性导航选项卡，固定导航选项卡在标题下方
+    - navigation.footer               #设置页脚
+    #- navigation.expand               #导航拓展，打开所有可以打开的小部分（可能使得左边栏过长）
+    - navigation.prune                #导航修剪
+    - navigation.path                 #在具体文档上方显示导航路径，便于回退
+    - navigation.indexes              #章节索引页，将index.md直接嵌入该节，便于书写概述内容
+    - navigation.top                  #返回顶部按钮
+    - search.highlight                #搜索关键词高亮
+
+  icon:
+    repo: fontawesome/brands/git-alt
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: deep purple           #顶部设置深紫色，下同
+      toggle:                        #特定的白天夜间模式搭配，详见mkdocs material
+        icon: material/brightness-7 
+        name: 转为夜间模式
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: 转为白天模式
+
+plugins:
+  - search                           #设置搜索功能
+  
+extra_css:
+  - css/custom.css
+
+markdown_extensions:
+  # 以下用于“告诫”样式
+  - admonition
+  - pymdownx.details
+  # 以下，结合上一行的单行语句，实现项目选项卡功能
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  # 以下，实现markdown语法的表格功能
+  - tables
+  # 以下，实现删除线功能
+  #- pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  # 以下，用于控制目录及其深度，避免目录过长（全局控制）
+  - toc:
+      permalink: true
+      toc_depth: 3
