@@ -23,5 +23,3 @@ MAKE MIX GREAT AGAIN！
 --- 
 
 关于知识共享：本项目的许可证为  [![CC BY-NC-SA Logo](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png) 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，任何情况下，请注明出处。
-
-另外，在原有协议之上，对于所有此网站原创内容，包括此网站链接（不包括借鉴图灵网站的内容），仅限本人或团队成员分享，禁止外传
