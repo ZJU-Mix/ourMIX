@@ -16,10 +16,10 @@
     1. 底部导航栏右键点击网络图标，右键点击**VPN**，选择**转到“设置”**
     2. 点击**添加VPN连接**，提供商默认选择**Windows(内置)**，连接名称随意填写，服务器名称填写**lns.zju.edu.cn**，VPN类型选择**使用证书的L2TP/IPsec**，登录类型使用默认的**用户名和密码**，用户名填写你的浙大通行证账号，密码填写你的浙大通行证密码，点击**保存**
     3. 点击**连接**即可，若连接成功则会显示**已连接**
-    
+
     === "图片教程"
-        ![alt text](image.png)
-        ![alt text](image-1.png)
+        ![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/need-pictures/image.jpg)
+        ![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/need-pictures/image-1.jpg)
 
 #### Windows10
 === "文字教程"
