@@ -113,19 +113,23 @@ theme:
     - navigation.top                  #返回顶部按钮
     - search.highlight                #搜索关键词高亮
 
+  font:
+    code: JetBrains Mono
+    text: Noto Serif SC
+    
   icon:
     repo: fontawesome/brands/git-alt
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: deep purple           #顶部设置深紫色，下同
+      primary: indigo           #顶部设置深蓝色，下同
       toggle:                        #特定的白天夜间模式搭配，详见mkdocs material
         icon: material/brightness-7 
         name: 转为夜间模式
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep purple
+      primary: indigo
       toggle:
         icon: material/brightness-4
         name: 转为白天模式
@@ -135,6 +139,7 @@ plugins:
   
 extra_css:
   - css/custom.css
+  - css/global.css
 
 markdown_extensions:
   # 以下用于“告诫”样式
