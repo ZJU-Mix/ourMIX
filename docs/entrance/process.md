@@ -74,7 +74,7 @@
 ### 2.2 进入宿舍园区
 紫金港校区很大，首先需要了解我们的宿舍园区，之后的入学报到流程绝大多数都能够在园区内完成（~~不需要跑来跑去，爽！~~）以下是我们代代传承的紫金港校区手绘地图：
 
-![紫金港校区地图](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/need-pictures/tah.jpg)
+![紫金港校区地图](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/tah.jpg)
 
 我们的宿舍区在图中最左侧的“玉湖园区”。临近可以选择入校的校门有：
 
@@ -84,7 +84,7 @@
 
 以上校门我们在下图所示的地图截屏中已经用红色圆圈标注，紫色矩形是我们的宿舍位置：
 
-![紫金港校区地图——来自高德地图](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/need-pictures/%E7%B4%AB%E9%87%91%E6%B8%AF%E5%9C%B0%E5%9B%BE%E2%80%94%E2%80%94%E9%AB%98%E5%BE%B7.png)
+![紫金港校区地图——来自高德地图](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E7%B4%AB%E9%87%91%E6%B8%AF%E5%9C%B0%E5%9B%BE%E2%80%94%E2%80%94%E9%AB%98%E5%BE%B7.png)
 
 我们比较建议从西三门或南大门/南二门入校。入校后请跟随工作人员指示在指定位置停车后再搬运行李，不要占用机动车道（学校的校门口基本都是双向单车道）。
 ### 2.3 找到学长组
