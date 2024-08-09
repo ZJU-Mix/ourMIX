@@ -20,7 +20,7 @@
     --md-default-fg-color--light: rgba(255,255,255,0.85);/*一级标题、代码框内文字、项目选项卡非当前所选项的文字*/
     --md-default-fg-color--lighter: rgba(255,255,255,0.8);/*代码框左侧边栏竖线的颜色*/
     --md-default-fg-color--lightest: rgba(255,255,255,0.6);/*项目选项卡的项目与内容的分割线的颜色*/
-    --md-primary-fg-color: rgb(0, 63, 136);    /*最上方标题栏的底色*/
+    --md-primary-fg-color: rgb(0, 63, 136);      /*最上方标题栏的底色，疑似改不了，后续需要再看*/
     --md-typeset-a-color: #00ffdd !important;    /*与链接有关的文本颜色*/ /*必须设置!important才能正常使用，下一行同*/
     --md-footer-fg-color: #fff !important;       /*页面下方 上一页与下一页的文字颜色*/
     --md-footer-bg-color: #0d0d0d;               /*页面下方 上一页与下一页的底色*/
