@@ -262,10 +262,7 @@ markdown相对而言语法更为简单，可以实现一些基础的多级标题
 
  	更何况，我们的完整而丰富的辅学积累与深厚的传承氛围也将会帮助你们尽量轻松地拿到尽可能好的结果。
 
-<p style="text-align: right;">
-*2024年7月20日 V 0.2*
-</p>
 
-<p style="text-align: right;">
+*2024年7月20日 V 0.2*
+
 *联系作者：fanqizhou@zju.edu.cn / nofcfy@gmail.com*
-</p>
