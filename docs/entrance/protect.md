@@ -7,10 +7,13 @@
 * 骗子的伎俩都报道过了，没什么好怕的。
 * 谈到钱就赶紧甩掉就行（这个算是正确的）。
 
-其实，生活中遇到骗子，往往很难立即意识到自己正在遭遇诈骗。分享一个不久前发生在笔者身上的例子：  
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B1.jpg)   
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B2.jpg)   
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B3.jpg) 
+其实，生活中遇到骗子，往往很难立即意识到自己正在遭遇诈骗。分享一个不久前发生在笔者身上的例子：
+
+![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B1.jpg)
+
+![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B2.jpg)
+
+![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B3.jpg)
 
 被骗子盗号的这位是我的高中同学，因为和他比较熟，对他平时说话的语气和一些口癖也比较了解。刚和骗子搭话时确实没发现异常，于是几乎要把钱转过去了，所幸当时在上早八腾不出手来，逃过一劫。但确实有以前的高中同学上当受骗给骗子转了6000，最后不了了之。
 
