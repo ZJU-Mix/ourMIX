@@ -9,11 +9,11 @@
 
 其实，生活中遇到骗子，往往很难立即意识到自己正在遭遇诈骗。分享一个不久前发生在笔者身上的例子：
 
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B1.jpg)
+![alt text](need-pictures/假冒好友1.jpg)
 
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B2.jpg)
+![alt text](need-pictures/假冒好友2.jpg)
 
-![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E5%81%87%E5%86%92%E5%A5%BD%E5%8F%8B3.jpg)
+![alt text](need-pictures/假冒好友3.jpg)
 
 被骗子盗号的这位是我的高中同学，因为和他比较熟，对他平时说话的语气和一些口癖也比较了解。刚和骗子搭话时确实没发现异常，于是几乎要把钱转过去了，所幸当时在上早八腾不出手来，逃过一劫。但确实有以前的高中同学上当受骗给骗子转了6000，最后不了了之。
 
@@ -46,7 +46,7 @@
     2024年2月，多位同学的浙大邮箱中收到有关所谓“学籍/成绩信息公布”的邮件，经后续学生询问，同样为钓鱼邮件。
 
     某日，多位浙大同学收到所谓“院系信息”通知，当时正值专业分流阶段，骗术可谓精准。
-    ![钓鱼邮件](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E9%92%93%E9%B1%BC%E9%82%AE%E4%BB%B6.jpg)
+    ![钓鱼邮件](need-pictures/钓鱼邮件.jpg)
 !!! info "特别提醒"
     - 学校的官方通知一般会通过年级群、辅导员、学校和学院官网、校内学生会公众号等发布，极少会通过邮箱形式通知。出现此类邮件不要轻易点击链接，一定要向官方询问是否属实。
     - 注意在校学生邮箱域名为**@zju.edu.cn**。一些骗术真假难辨，但是另一些比较粗糙的假邮件可以通过域名判断，以下是常见的错误域名：

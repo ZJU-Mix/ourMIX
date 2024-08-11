@@ -7,19 +7,19 @@
 === "step 1"
     选择对应的无线网络，若直接连接成功，则跳过第二步；否则，网络会弹出验证窗口或提示需要验证操作。
     
-    ![ZJUWLAN验证1](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E6%97%A0%E7%BA%BFwifi_1.jpg)
+    ![ZJUWLAN验证1](need-pictures/无线wifi_1.jpg)
     
 === "step 2"
     进入验证窗口，如果没有自动弹出，可手动输入网址(net3.zju.edu.cn)进入页面。在页面中输入统一身份认证账号和密码，页面跳转显示连接成功。
 
-    ![ZJUWLAN验证2](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E6%97%A0%E7%BA%BFwifi_2.jpg)
+    ![ZJUWLAN验证2](need-pictures/无线wifi_2.jpg)
 ### 1.2 ZJUWLAN-Secure
 === "电脑端连接"
     选择对应的无线网络。如果该网络是首次连接或已忘记，则会弹出小窗要求输入用户名和网络密码。
     
     将自己的统一身份认证账号和密码作为用户名和密码输入，点击“连接”即可，无需网页验证。
     
-    ![ZJUWLAN验证3](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E6%97%A0%E7%BA%BFwifi_3.jpg)
+    ![ZJUWLAN验证3](need-pictures/无线wifi_3.jpg)
 === "手机端连接"
     若页面同上，则类似。但安卓手机端的连接页面很可能与电脑端不同，连接时会弹出以下页面。各个选项需要设置为：
     
@@ -29,7 +29,7 @@
     - 身份和密码两栏分别输入统一身份认证的账号和密码
     - 其他均默认
 
-    ![ZJUWLAN验证4](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/%E6%97%A0%E7%BA%BFwifi_4.jpg)
+    ![ZJUWLAN验证4](need-pictures/无线wifi_4.jpg)
 ## 2. 校网有线连接
 
 ### 2.0 准备
@@ -44,10 +44,10 @@
 #### Windows11
 === "step 1"
     底部导航栏右键点击网络图标，右键点击**VPN**，选择**转到“设置”**
-    ![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/image.jpg)
+    ![alt text](need-pictures/image.jpg)
 === "step 2"
     点击**添加VPN连接**，提供商默认选择**Windows(内置)**，连接名称随意填写，服务器名称填写**lns.zju.edu.cn**，VPN类型选择**使用证书的L2TP/IPsec**，登录类型使用默认的**用户名和密码**，用户名填写你的浙大通行证账号，密码填写你的浙大通行证密码，点击**保存**
-    ![alt text](https://raw.githubusercontent.com/ZJU-Mix/ourMIX/main/docs/entrance/need-pictures/image-1.jpg)
+    ![alt text](need-pictures/image-1.jpg)
 === "step 3"
     点击**连接**即可，若连接成功则会显示**已连接**
 
