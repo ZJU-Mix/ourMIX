@@ -113,7 +113,7 @@ theme:
     - navigation.top                  #返回顶部按钮
     - search.highlight                #搜索关键词高亮
 
-  font:
+  font:                               #字体设置部分
     code: JetBrains Mono
     text: Noto Serif SC
     
@@ -123,7 +123,7 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       primary: indigo           #顶部设置深蓝色，下同
-      toggle:                        #特定的白天夜间模式搭配，详见mkdocs material
+      toggle:                        #特定的白天夜间模式搭配，详见material for mkdocs
         icon: material/brightness-7 
         name: 转为夜间模式
 
@@ -142,7 +142,7 @@ extra_css:
   - css/global.css
 
 markdown_extensions:
-  # 以下用于“告诫”样式
+  # 以下用于“Admonitions”样式，可生成卡片样式
   - admonition
   - pymdownx.details
   # 以下，结合上一行的单行语句，实现项目选项卡功能
