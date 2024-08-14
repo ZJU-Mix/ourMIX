@@ -1,4 +1,4 @@
-site_name: 非官方版混合网站
+site_name: 混合宝典
 site_url: https://zju-mix.github.io/ourMIX/
 site_author: ourMIX
 repo_url: https://github.com/ZJU-Mix/ourMIX.github.io/
@@ -55,7 +55,7 @@ nav:
       - 专业必修课: colleges/cse/required-course.md
       - 选修-公共基础类: colleges/cse/elective-公共基础类.md
       - 选修-机器人与智能系统类: colleges/cse/elective-机器人与智能系统类.md
-      - 选修-机器人工程专有专业课: colleges/cse/elective-机器人工程.md
+      - 选修-机器人工程专业课: colleges/cse/elective-机器人工程.md
 
     - 信息与电子工程学院:
       - colleges/isee/index.md
